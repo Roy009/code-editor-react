@@ -1,8 +1,14 @@
-# React + Vite
+# Code Editor using React Material UI and Piston API 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-Currently, two official plugins are available:
+## Code Editor
+![Screenshot 2024-09-09 183942](https://github.com/user-attachments/assets/2272b8bd-9692-448b-a528-e93805d91ff2)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Language Selection
+
+![Screenshot 2024-09-09 184004](https://github.com/user-attachments/assets/f24b7d88-db34-4b22-9fa9-0d7165207618)
+
+## Execute Code
+
+![Screenshot 2024-09-09 184011](https://github.com/user-attachments/assets/1517217c-225b-45a4-874c-81f53dfbc286)
